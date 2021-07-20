@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<div align-center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkHanBin0820r&count_bg=%23F3F3F3&title_bg=%23068AEB&icon=python.svg&icon_color=%23FFFFFF&title=Python&edge_flat=false)](https://hits.seeyoufarm.com)
+</div> 
 <!--
 **ParkHanBin0820/ParkHanBin0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
