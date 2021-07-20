@@ -1,17 +1,13 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-http://img.shields.io/badge/-Python-#3776AB?style=flat&logo=python
 
-**ParkHanBin0820/ParkHanBin0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   
+<a href="https://www.python.org/">
+    <img 
+        src="http://img.shields.io/badge/-Python-3776AB?style=flate&logo=Python&link=python.org"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
