@@ -9,6 +9,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://www.vmware.com/kr.html" target="_blank"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
 <a href="https://www.cisco.com/c/ko_kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
+<a href="https://www.mysql.com//kr.html" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQLColor=white"/></a>
 </div>
 
 <div align='center'>
