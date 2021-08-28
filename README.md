@@ -9,12 +9,14 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <a href="https://www.vmware.com/kr.html" target="_blank"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
 <a href="https://www.cisco.com/c/ko_kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
-<a href="https://www.mysql.com//kr.html" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQLColor=white"/></a>
+<a href="https://www.mysql.com//kr.html" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&Color=white"/></a>
 </div>
 
 <div align='center'>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<a href="https://www.ubuntu.org" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <a href="https://www.centos.org/" target="_blank"><img src="https://img.shields.io/badge/Centos-262577?style=flat-square&logo=Centos&logoColor=white"/></a>
 </div>
 
